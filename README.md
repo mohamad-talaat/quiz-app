@@ -82,3 +82,4 @@ Quiz app using GetX With PageCotnroller & Timer
 ## Dependencies 💤
  -  `get: ^4.3.8`
 # Quez_app
+# quiz-app
